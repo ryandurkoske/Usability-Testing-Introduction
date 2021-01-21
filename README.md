@@ -1,6 +1,6 @@
-#I am...A Project in Becoming
+#Usability Testing Introduction
 
-This coding tool is a great way to break the ice at begining of your school year. Why not use code to help your students introduce themselves? It's an easy way for you to introduce your students to a little bit of computer science and build their coding literacy.
+Why not use code to help your students introduce themselves? It's an easy way for you to introduce your students to a little bit of computer science and build their coding literacy.
 
 Students work through the prompts in the index.html code to construct their own web page that exlains who they are and where they are going. I ask that my students actually present their page to the rest of the class. But before we do so--and even while the presentations are going on--I give students time to work together to debug their projects. 
 
@@ -9,7 +9,7 @@ This template also allows the user to mix and match div. blocks should students 
     
 ## Get started! 
 
-1. Go to the I-am-a-project-in-becoming  repository: [HERE](https://github.com/pitt-fuego/I-am-a-project-in-becoming) 
+1. Go to the Usability-Studies-Introduction repository: [HERE](https://github.com/sjquigley/Usability-Testing-Introduction) 
 
 2. Click "Code" then "Download ZIP" to your local computer. 
 
